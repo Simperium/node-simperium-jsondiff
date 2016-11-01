@@ -1,0 +1,5 @@
+src/
+.npmignore
+.babelrc
+node_modules
+*.tgz
